@@ -4,3 +4,7 @@ Qwen3 VL 235B A22B Instruct
 File Parser Engine = Native
 
 temperature = 0
+
+https://ai.100tal.com/product/ocr-hr
+
+需要打开ocr，把文字识别结果刚开始的数字给删除，删除里面的&。在上传图片的同时将文字版输入进大模型。
